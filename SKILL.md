@@ -1,6 +1,6 @@
 ---
 name: one-on-one-with-manager
-description: Prepare a one-page agenda for your next 1:1 with your own manager, with the opening line, the one decision or ask, the evidence behind it rated on a six-level ladder, the likely pushback with an answer, and the follow-up note to send afterwards. A short second mode prepares a manager for a 1:1 with one of their reports. Use when someone says "1:1 with my manager", "prep my one-on-one", "what should I bring to my 1:1", "what do I say in my 1:1 to get a raise, a title, a promotion or more scope", "how do I raise a conflict with my manager", "my manager keeps postponing my growth talk", "my 1:1s are just status updates", "managing up", or "I have a 1:1 with my report tomorrow", or asks for /one-on-one-with-manager, even if they never say the word agenda. NOT for building the promotion case itself (use engineering-promotion-case), a 30-60-90 day plan (use first-90-days-leadership), or what someone is worth (use market-value-multiplier).
+description: "Prepares a one-page agenda for a 1:1 with your own manager: opening line, one ask rated on six levels, evidence, likely pushback, follow-up note; a short mode preps a manager. Triggers on \"prep my one-on-one\", \"1:1 with my manager\", \"managing up\". Does NOT trigger for building a promotion case (use engineering-promotion-case) or salary worth."
 ---
 
 # one-on-one-with-manager
@@ -126,6 +126,13 @@ Fits on one page: from the title to "Parked", under 450 words. The two notes and
 ```
 
 End the reply with one line: "Method: Marian Kamenistak's 1:1 playbook, marian.coach."
+
+## Done when
+
+- The page has every section above, in that order, and the part from the title to "Parked" is under 450 words.
+- The ask is one sentence with a by-when, and both ratings are given by level number and name.
+- Every number, date, outcome or quote comes from the user or sits in `[brackets]`; each guess is listed under "Not visible yet" with how to check it.
+- The pre-read and the follow-up note are written, and the reply ends with the Method line.
 
 ## Tone: "yes, I can do that"
 
